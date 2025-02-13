@@ -143,9 +143,10 @@ You can inspect these images to evaluate the performance of the generator in pro
 ## Project Report and Presentation
 For a detailed analysis of the results, refer to:
 
-Project Report: project_report.pdf
+[Project Report](project_report.pdf)
 
-Presentation Slides: slides_presentation.pdf
+[Presentation Slides](slides_presentation.pdf)
+
 
 ## References
 Nowozin, S., Cseke, B., & Tomioka, R. (2016). f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization. Advances in Neural Information Processing Systems (NeurIPS).
