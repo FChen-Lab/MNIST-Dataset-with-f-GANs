@@ -76,8 +76,8 @@ On macOS/Linux:
 
 ```bash
 source venv/bin/activate
-On Windows:
 ```
+On Windows:
 ```bash
 venv\Scripts\activate
 ```
@@ -99,7 +99,7 @@ The MNIST dataset will be automatically downloaded when running the program. Ens
 
 Repository Structure
 Here’s the structure of the files in this repository:
-
+```bash
 mnist-fgan/
 ├── checkpoints/             # Directory for saving trained models
 ├── README.md                # Project documentation (this file)
@@ -110,7 +110,7 @@ mnist-fgan/
 ├── project_report.pdf       # Detailed project report
 ├── slides_presentation.pdf  # Presentation slides for the project
 └── requirements.txt         # List of dependencies
-
+```
 Usage
 Training the Model
 To train the f-GAN model, run the following command:
