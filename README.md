@@ -174,3 +174,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     git push origin feature/your-feature-name
     ```
 5. **Open a pull request** and describe your changes.
+
+## Acknowledgments
+I would like to thank **Alexandre Vérine** for his guidance and support throughout this project. His insights were invaluable in shaping the direction of my work.
