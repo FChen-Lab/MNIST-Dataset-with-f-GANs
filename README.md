@@ -149,9 +149,8 @@ For a detailed analysis of the results, refer to:
 
 
 ## References
-Nowozin, S., Cseke, B., & Tomioka, R. (2016). f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization. Advances in Neural Information Processing Systems (NeurIPS).
-
-Goodfellow, I., et al. (2014). Generative Adversarial Networks. Communications of the ACM.
+- **Sebastian Nowozin, Botond Cseke, Ryota Tomioka**. f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization. Available [here](https://arxiv.org/abs/1606.00709).
+- **Dibya Ghosh**. KL Divergence for Machine Learning. Available [here](https://dibyaghosh.com/blog/probability/kldivergence.html).
 
 MNIST Dataset: http://yann.lecun.com/exdb/mnist/
 
