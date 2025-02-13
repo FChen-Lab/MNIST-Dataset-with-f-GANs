@@ -15,7 +15,8 @@ This project implements **f-GANs** (f-divergence Generative Adversarial Networks
 7. [Usage](#usage)
 8. [Results](#results)
 9. [References](#references)
-10. [Contributing](#contributing)
+10. [Acknowledgments](#acknowledgments)
+11. [Contributing](#contributing)
 
 ---
 
@@ -157,6 +158,9 @@ For a detailed analysis of the results, refer to:
 
 MNIST Dataset: http://yann.lecun.com/exdb/mnist/
 
+## Acknowledgments
+I would like to thank **Alexandre Vérine** for his guidance and support throughout this project. His insights were invaluable in shaping the direction of my work.
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
@@ -174,6 +178,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     git push origin feature/your-feature-name
     ```
 5. **Open a pull request** and describe your changes.
-
-## Acknowledgments
-I would like to thank **Alexandre Vérine** for his guidance and support throughout this project. His insights were invaluable in shaping the direction of my work.
